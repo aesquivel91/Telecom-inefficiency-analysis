@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="telecom.jpg" alt="Netflix Content Analysis Banner" width="800">
+</p>
+
 # Telecom Inefficiency Analysis 
 
 Exploratory analysis of telecom operator inefficiencies. 
