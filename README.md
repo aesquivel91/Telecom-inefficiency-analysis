@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="telecom.jpg" alt="Netflix Content Analysis Banner" width="800">
+  <img src="telecom.jpg" alt="Telecom Analysis Banner" width="800">
 </p>
 
 # Telecom Inefficiency Analysis 
