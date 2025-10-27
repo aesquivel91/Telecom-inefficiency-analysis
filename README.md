@@ -1,4 +1,4 @@
-# Telecom Inefficiency Analysis / Análisis de Ineficiencias en Telecomunicaciones
+# Telecom Inefficiency Analysis 
 
 Exploratory analysis of telecom operator inefficiencies. 
 
